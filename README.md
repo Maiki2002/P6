@@ -73,3 +73,5 @@ Necesitaremos de 3 comandos para la compilación desde el archivo Makefile:
 - make write
 
 ## Mapa de cableado
+![P6](https://github.com/Maiki2002/P6/assets/105370860/5d9f19d6-cff6-45ad-9b2f-dc262be8484d)
+
