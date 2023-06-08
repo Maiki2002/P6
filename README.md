@@ -15,14 +15,14 @@ Con base en el libro de Zhu, primero debemos:
 - Usar la lógica del programa para la ejecución del BluePill
 
 Ejemplo de código en alto nivel:
+![1](https://github.com/Maiki2002/P6/assets/105370860/fd31a6a7-ec02-467a-b0ad-4a4956885bc6)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e7f63d8e-530c-47de-9e65-d597c08f4f84/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/06dee19e-2102-42af-8d7a-ef73986329b8/Untitled.png)
+![2](https://github.com/Maiki2002/P6/assets/105370860/9e4ee44b-8eda-40f3-a963-db4c7b2afe68)
 
 El marco de la pila de main es el siguiente:
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a8653ff0-c9dc-4113-8e3a-5ce3c6c6b682/Untitled.png)
+![3](https://github.com/Maiki2002/P6/assets/105370860/ec80a50b-e0ac-4ff1-8125-874ce0fb563b)
+
 
 Los registros r8 y r9 son destinados para las variables de mode y speed.
 
